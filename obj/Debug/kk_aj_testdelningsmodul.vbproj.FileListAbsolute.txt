@@ -1,0 +1,7 @@
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_testdelningsmodul.dll.config
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_testdelningsmodul.dll
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_testdelningsmodul.pdb
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_testdelningsmodul.xml
+D:\wwwroot\dnndev_v902.me\DesktopModules\kk_aj_testdelningsmodul\obj\Debug\kk_aj_testdelningsmodul.dll
+D:\wwwroot\dnndev_v902.me\DesktopModules\kk_aj_testdelningsmodul\obj\Debug\kk_aj_testdelningsmodul.xml
+D:\wwwroot\dnndev_v902.me\DesktopModules\kk_aj_testdelningsmodul\obj\Debug\kk_aj_testdelningsmodul.pdb
